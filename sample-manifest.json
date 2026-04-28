@@ -1,12 +1,12 @@
 {
-  "export_job_id": "22a39637-0e26-495c-93f1-6cf1741654d1",
+  "export_job_id": "cb441ae8-c5a0-4975-af8c-d157752af552",
   "id_short": 614902,
-  "published_at": "2026-04-21T19:37:15Z",
+  "published_at": "2026-04-28T19:23:19Z",
   "repo_name": "all-restaurants-in-temecula-california-us-sample-614902",
   "sample_asset_name": "beamstation_614902_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/614902/beamstation_614902_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 23,
-  "sample_sha256": "37f996966848319a06a01be89f2ec00889e368940afd076123afbedb28422325",
-  "sample_size_bytes": 100188,
-  "total_records": 238
+  "sample_records": 22,
+  "sample_sha256": "de5d8712053dab76f972df8f0d8274907747d91d6d1f0cb5b85cae8bf6dd9dc9",
+  "sample_size_bytes": 95829,
+  "total_records": 225
 }
