@@ -1,6 +1,6 @@
 # All Restaurants in Temecula, California, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `614902` |
 | Location | Temecula |
 | Category | Restaurants |
-| Full dataset size | 225 records |
-| Free sample size | 22 records (9.78%) |
-| Last export | 2026-04-28T17:57:27.875829+00:00 |
+| Full dataset size | 314 records |
+| Free sample size | 31 records (9.87%) |
+| Last export | 2026-05-07T00:50:38.873300+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-temecula-california-us-sample-614902/releases/download/sample-latest/beamstation_614902_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
